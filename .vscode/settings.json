@@ -1,0 +1,15 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "files.trimTrailingWhitespace": true,
+    "files.encoding": "utf8bom",
+    "files.autoGuessEncoding": true,
+
+    "[powershell]": {
+      "editor.defaultFormatter": "ms-vscode.powershell",
+      "editor.formatOnSave": true,
+      "debug.saveBeforeStart": "nonUntitledEditorsInActiveGroup",
+      "editor.semanticHighlighting.enabled": false,
+      "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?"
+    }
+}
